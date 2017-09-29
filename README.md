@@ -1,9 +1,9 @@
-==============================================================================================================================
+======================================================================================
 
 Question1.ipynb corresponds to the 1st question in this document
 Question2.ipynb corresponds to the 2nd question in this document
 
-==============================================================================================================================
+======================================================================================
 # ML-Scikit-learn-Exercises
 
 1. We learned in class that the XOR problem can't be solved using a single perceptron and requires a neural network to solve. 
